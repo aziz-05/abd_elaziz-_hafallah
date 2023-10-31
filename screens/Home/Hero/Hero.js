@@ -50,7 +50,7 @@ export default function Hero() {
               <span style={{ color: '#57EFB4' }}>.</span>
             </Text>
             <Text size={['body2', 'body', 'body']}>
-              I am Houssam, fresh Software Engineering graduate passionate about writing clean code, continuously improving my skills as a developer. I am here to help you build your amazing product.
+              I am Aziz, fresh Software Engineering graduate passionate about writing clean code, continuously improving my skills as a developer. I am here to help you build your amazing product.
             </Text>
           </Wrapper>
           <Button href='/Houssam Boudiar Resume.pdf' variant='primary' download>Contact Me</Button>
