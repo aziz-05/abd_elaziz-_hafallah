@@ -4,8 +4,6 @@
   <img align="left" alt="Abd Elaziz's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=houssamboudiar)
-
 <br />
 
 hi, I'm [Abd Elaziz Hafallah](https://abd-elaziz-hafallah.vercel.app/), a passionate self-taught Network engineer and web developer from Algeria. My passion for both netorking and web develpment lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
@@ -27,6 +25,4 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
 <br />
 <br />
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=houssamboudiar&show_icons=true&theme=gotham" alt="houssamboudiar" />
 
