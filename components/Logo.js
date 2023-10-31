@@ -35,7 +35,7 @@ export default function Logo() {
   return (
     <Container>
       <Image alt='' src='/Untitled-1-01.svg' />
-      <Text>Houssam Boudiar</Text>
+      <Text>Abd El Aziz Hafallah</Text>
     </Container>
   );
 }
