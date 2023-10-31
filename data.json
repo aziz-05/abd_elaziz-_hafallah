@@ -5,16 +5,16 @@
       "title": "Portfolio",
       "icon": "",
       "tech": "React, Next, Styled Components",
-      "url": "https://github.com/houssamboudiar",
-      "liveurl": "https://houssamboudiar.vercel.app/"
+      "url": "https://github.com/aziz-05/abd_elaziz-_hafallah",
+      "liveurl": "https://abd-elaziz-hafallah.vercel.app/"
     },
     {
       "image": "/images/react-store.jpg",
       "title": "React Shop",
       "icon": "",
       "tech": "React, Redux, Styled Components, Graphql",
-      "url": "https://github.com/houssamboudiar/react-clothing" ,   
-      "liveurl": "https://houssamboudiar-react-shop.netlify.app"    
+      "url": "https://github.com/aziz-05/react-clothing-main" ,   
+      "liveurl": "https://abd-elaziz-hafallah.netlify.app/"    
     },
     {
       "image": "/images/imageg.jpg",
@@ -23,14 +23,6 @@
       "tech": "HTML, CSS",
       "url": "https://github.com/houssamboudiar/Image-gallery",  
       "liveurl": "https://houssamboudiar-image-gallery.netlify.app"    
-    },
-    {
-      "image": "/images/cryptoeditor.jpg",
-      "title": "Crypto Editor",
-      "icon": "",
-      "tech": "HTML, Vanilla JS, Regex, REST API",
-      "url": "https://github.com/houssamboudiar/crypto-editor-js",  
-      "liveurl": "https://houssamboudiar-crypto-editor.netlify.app"  
     }
   ]
 }
