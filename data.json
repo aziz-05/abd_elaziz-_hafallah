@@ -18,11 +18,19 @@
     },
     {
       "image": "/images/imageg.jpg",
-      "title": "Image Gallery",
+      "title": "Amazon Clone",
       "icon": "",
-      "tech": "HTML, CSS",
-      "url": "https://github.com/houssamboudiar/Image-gallery",  
-      "liveurl": "https://houssamboudiar-image-gallery.netlify.app"    
+      "tech": "HTML, CSS, Javascript",
+      "url": "https://github.com/aziz-05/javascript-amazon-project-main",  
+      "liveurl": "https://abdelaziz-hafallah-amazon-clonee.netlify.app"    
+    },
+    {
+      "image": "/images/imageg.jpg",
+      "title": "Spotify Clone",
+      "icon": "",
+      "tech": "HTML, CSS, Javascript, React, Axios",
+      "url": "https://github.com/aziz-05/Sportify-main",  
+      "liveurl": "https://abdelaziz-hafallah-spotify-clone.netlify.app"    
     }
   ]
 }
