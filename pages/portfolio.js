@@ -4,7 +4,7 @@ import { Hero, Works } from '../screens/Portfolio';
 
 export default function Portfolio() {
   return (
-    <Layout title='Houssam Boudiar | Portfolio'>
+    <Layout title='Abd Elaziz Hafallah | Portfolio'>
       <Works />
       <Cta />
     </Layout>

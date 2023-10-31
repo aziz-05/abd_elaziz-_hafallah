@@ -11,7 +11,7 @@ import {
 
 export default function Home() {
   return (
-    <Layout title='Houssam Boudiar | Home'>
+    <Layout title='Abd Elaziz Hafallah | Home'>
       <Hero />
     </Layout>
   );

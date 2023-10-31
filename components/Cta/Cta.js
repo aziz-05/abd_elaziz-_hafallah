@@ -22,7 +22,7 @@ export default function Cta() {
         >
           <Text size='caption'>
           </Text>
-          <Button href='/Houssam Boudiar Resume.pdf' variant='primary' download>Get In Touch</Button>
+          <Button href='/ABD ELAZIZ HAFALLAH Resume' variant='primary' download>Get In Touch</Button>
         </Wrapper>
       </Container>
     </Section>
