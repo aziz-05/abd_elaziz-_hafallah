@@ -14,7 +14,7 @@ export default function Hero() {
             Welcome to my personal blog
           </Text>
           <Text size={['body2', 'body', 'body']}>
-            Documenting the things i learn from others, hopefully i pave the way behind me.
+            Documenting the things I learn from others, hopefully i pave the way behind me.
           </Text>
         </Wrapper>
       </Container>
