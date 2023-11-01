@@ -17,7 +17,7 @@
       "liveurl": "https://abd-elaziz-hafallah.netlify.app/"    
     },
     {
-      "image": "/images/imageg.jpg",
+      "image": "/images/amazon-clone.jpg",
       "title": "Amazon Clone",
       "icon": "",
       "tech": "HTML, CSS, Javascript",
@@ -25,7 +25,7 @@
       "liveurl": "https://abdelaziz-hafallah-amazon-clonee.netlify.app"    
     },
     {
-      "image": "/images/imageg.jpg",
+      "image": "/images/watchvid.jpg",
       "title": "watchvid",
       "icon": "",
       "tech": "HTML, CSS, Javascript",
@@ -33,7 +33,7 @@
       "liveurl": "https://abdelaziz-hafalah-watchvidio.netlify.app/"    
     },
     {
-      "image": "/images/imageg.jpg",
+      "image": "/images/sptify-clone.jpg",
       "title": "Spotify Clone",
       "icon": "",
       "tech": "HTML, CSS, Javascript, React, Axios",
