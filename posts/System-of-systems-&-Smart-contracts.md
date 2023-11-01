@@ -1,7 +1,7 @@
 ---
 title: 'Quality of Service Analysis In Vehicular
 Communication'
-date: '2020-01-01'
+date: '2021-07-01'
 desc: 'Based on the original AODV Protocol, The QoS-AODV is designed to improve the quality of service in VANETs to achieve reliable and
 efficient communication by providing the users a good service and features in terms of network delay, bandwidth, packet loss.'
 image: '/images/09.jpg'
