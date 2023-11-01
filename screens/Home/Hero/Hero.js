@@ -50,10 +50,10 @@ export default function Hero() {
               <span style={{ color: '#57EFB4' }}>.</span>
             </Text>
             <Text size={['body2', 'body', 'body']}>
-              I am Aziz, fresh Network Engineering graduate and soft passionate about writing clean code, continuously improving my skills as a developer. I am here to help you build your amazing product.
+              I am Aziz, fresh Network Engineering graduate and Web developer passionate about writing clean code, continuously improving my skills as a developer. I am here to help you build your amazing product.
             </Text>
           </Wrapper>
-          <Button href='/ABD ELAZIZ HAFALLAH Resume.pdf' variant='primary' download>Contact Me</Button>
+          <Button href={'/ABD ELAZIZ HAFALLAH Resume.pdf'} variant='primary' download>Contact Me</Button>
         </Wrapper>
         <Container
           mt={[48]}
