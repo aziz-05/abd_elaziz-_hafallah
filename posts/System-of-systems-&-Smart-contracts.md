@@ -1,27 +1,29 @@
 ---
-title: 'System of systems & Smart contracts'
+title: 'Quality of Service Analysis In Vehicular
+Communication'
 date: '2020-01-01'
-desc: 'Given the increasing need to improve systems functioning in general such as performance,
-management and information exchange. The purpose of bringing these autonomous systems
-together in order to make the most of their capacities was introduced under the concept ”System of
-Systems”.'
+desc: 'Based on the original AODV Protocol, The QoS-AODV is designed to improve the quality of service in VANETs to achieve reliable and
+efficient communication by providing the users a good service and features in terms of network delay, bandwidth, packet loss.'
 image: '/images/09.jpg'
 ---
-Given the increasing need to improve systems functioning in general such as performance,
-management and information exchange. The purpose of bringing these autonomous systems
-together in order to make the most of their capacities was introduced under the concept ”System of
-Systems”.
+In the driving environment, road accidents are among the biggest causes of death in the world.
+Vehicular Ad hoc NETworks provide a good solution to minimise mortality and enhance driving conditions.
 
-The difficulty in designing them lies in the complexity resulting from their constituent
-systems heterogeneity, each of which has a precise mission to accomplish, and its independent
-evolution can cause these systems to behave differently, These changes may affect their interactions
-and communications within the **SoS**.
+We find in VANETs three manners of communications: inter-vehicle communication (Vehicle To Vehicle, V2V).
+communication of vehicles with nearby static infrastructure(Vehicle To Infrastructure, V2I),
+and Hybrid communication. Through these communications, numerous applications are created where
+most of them centre on improving the safety of road users. At the same time, new issues are created
+due to the uniqueness features of VANETs.
 
-Consequently, it may break the global goal of the SoS. Taking these changes into account from
-the design phase is a major challenge for SoS engineering which already suffers from a great lack
-in terms of methods and design process.
+Quality of Service in VANETs represents a hot and challenging topic for researchers.
+It is highly affected by the high mobility, frequent disconnection and
+changing topology. In this document, we propose a new routing protocol to provide
+Quality of Service for safety applications traffic, we validated our approach under
+the simulation platform NS2-35, then we present and discuss the simulation experiments
+and the performance achieved by our solution
 
-In such situation, important informations may be lost, exposed to fraud or data tampering, etc. Some technologies have revolutionized exchanges between individuals. In particular, we mention Blockchain **—is a distributed information storage and transmission technology—** collecting information sent by users checked and grouped at regular time intervals into blocks thus forming a chain, the whole secured by cryptography. That makes it an ideal technology to maintain reliable interactions and secured information exchange within the system of systems.
-
-These interactions can be done by adopting smart contracts to facilitate the verification, negotiation and execution
-between constituent systems without the need for intermediaries.
+Our protocol called QoS-AODV improves the quality of service in the VANET
+network by maintaining two routes to the destination instead of one. In addition
+to the default path calculated by AODV, we define a second one called NPD (The
+Nearest Path to the Destination). This latter assures more efficiency and reliability
+for the packet reception.
