@@ -6,7 +6,7 @@
       "icon": "",
       "tech": "React, Next, Styled Components",
       "url": "https://github.com/aziz-05/abd_elaziz-_hafallah",
-      "liveurl": "https://abd-elaziz-hafallah.vercel.app/"
+      "liveurl": "https://abd-elaziz-hafallah-oqnx.vercel.app/portfolio"
     },
     {
       "image": "/images/react-store.jpg",
@@ -23,6 +23,14 @@
       "tech": "HTML, CSS, Javascript",
       "url": "https://github.com/aziz-05/javascript-amazon-project-main",  
       "liveurl": "https://abdelaziz-hafallah-amazon-clonee.netlify.app"    
+    },
+    {
+      "image": "/images/imageg.jpg",
+      "title": "watchvid",
+      "icon": "",
+      "tech": "HTML, CSS, Javascript",
+      "url": "https://github.com/aziz-05/watchvid",  
+      "liveurl": "https://abdelaziz-hafallah-spotify-clone.netlify.app"    
     },
     {
       "image": "/images/imageg.jpg",
